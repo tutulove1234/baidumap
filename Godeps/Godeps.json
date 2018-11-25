@@ -1,0 +1,16 @@
+{
+	"ImportPath": "baidumap",
+	"GoVersion": "go1.10",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/tealeg/xlsx",
+			"Comment": "v1.0.3-80-gdbf71b6",
+			"Rev": "dbf71b6a931e7096340690e009e40c914eb1fc3a"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v1",
+			"Rev": "9f9df34309c04878acc86042b16630b0f696e1de"
+		}
+	]
+}
